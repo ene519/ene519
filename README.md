@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" font-size="50px">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span><h1>SOFTWARE ENGINEER</h1></span>
+   SOFTWARE ENGINEER
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </div>
 
