@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-## ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/supercoolx">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## 🛠️ SKILLS
+### 🛠️ SKILLS
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
