@@ -4,21 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/supercoolx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/supercoolx">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ## 🛠️ SKILLS
-
-Blockchain Development :
-![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
-![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
-![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
 
 Frontend Development :
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -30,6 +25,11 @@ Frontend Development :
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+
+Blockchain Development :
+![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
 
 
 
