@@ -4,8 +4,7 @@ An experienced software engineer adept in all stages of advanced web development
 
 #### Github Stats 📊
 
-[![Ene's github stats](https://github-readme-stats.vercel.app/api?username=ene519)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ene's github stats](https://github-readme-stats.vercel.app/api?username=ene519)]
 
 <table style="border-size:0px">
   <tr >
