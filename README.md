@@ -2,6 +2,11 @@
 
 An experienced software engineer adept in all stages of advanced web development, specialised in database design and management, knowledgeable in user interface, testing, and debugging process, proficient in an assortment of technologies, including React, Node, Blockchain etc.
 
+#### Github Stats 📊
+
+[![Ene's github stats](https://github-readme-stats.vercel.app/api?username=ene519)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <table style="border-size:0px">
   <tr >
     <td style="border: none;">
