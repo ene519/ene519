@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a align="right" border-radius="50%" href="https://github.com/ene519">
-    <img height="180em" src="https://github.com/ene519/ene519/blob/me.png" />
+    <img height="180em" src="https://github.com/ene519/ene519/blob/main/me.png" />
   </a>
 </div>
 
