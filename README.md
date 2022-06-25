@@ -6,12 +6,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center" display="flex">
-  <a align="left" href="https://github.com/ene519">
+<div align="center">
+  <a href="https://github.com/ene519">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a align="right" border-radius="50%" href="https://github.com/ene519">
-    <img height="180em" src="https://github.com/ene519/ene519/blob/main/me.png" />
   </a>
 </div>
 
@@ -40,3 +37,4 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=github)
