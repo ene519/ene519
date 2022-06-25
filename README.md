@@ -1,14 +1,17 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   SOFTWARE ENGINEER
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> SOFTWARE ENGINEER  
+
+<div align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+</div>
 
 ### ⚙️ GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/ene519">
+<div align="center" display="flex">
+  <a align="left" href="https://github.com/ene519">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a align="right" border-radius="50%" href="https://github.com/ene519">
+    <img height="180em" src="https://github.com/ene519/ene519/blob/me.png" />
   </a>
 </div>
 
