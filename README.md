@@ -19,9 +19,8 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ene519">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ene519&hide_border=true&layout=compact" />
 </div>
 
 ### 🛠️ SKILLS
