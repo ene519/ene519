@@ -20,9 +20,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ene519&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ene519&hide_border=true&layout=compact" />
-</div>
-
+</div>  
+  
 ### 🛠️ SKILLS
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
